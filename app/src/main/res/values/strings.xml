@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tortilla</string>
+    <string name="title_activity_main_dashboard">MainDashboard</string>
+    <string name="tab_text_1">Order</string>
+    <string name="tab_text_2">History</string>
+    <string name="tab_text_3">Charity Stats</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Join Us</string>
+    <string name="user_dashboard">Dashboard</string>
+
+</resources>
